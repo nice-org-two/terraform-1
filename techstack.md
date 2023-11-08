@@ -122,7 +122,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nice-org-two/terraform-1](https://github.com/nice-org-two/terraform-1)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|111<br/>Tools used|357<br/>Contributors|11/07/23 <br/>Report generated|08/31/22<br/>Last commit date|
+|111<br/>Tools used|357<br/>Contributors|11/08/23 <br/>Report generated|08/31/22<br/>Last commit date|
 |------|------|------|------|
 </div>
 
@@ -176,7 +176,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src=''/> Data (9)
+## <img src='https://img.stackshare.io/databases.svg'/> Data (9)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21799/default_c1b593d0eeac611b97edee3d68e1f785312c9914.png' alt='Amazon Managed Workflows for Apache Airflow'>
@@ -400,7 +400,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src=''/> Hosting (1)
+## <img src='https://img.stackshare.io/hosting.svg'/> Hosting (1)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/666/X0g3ER4B.png' alt='Shelly Cloud'>
@@ -413,7 +413,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src=''/> Software as a Service (SaaS) (5)
+## <img src='https://img.stackshare.io/saas.svg'/> Software as a Service (SaaS) (5)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21759/default_5c53af6aae91062d807462815c519a7745aabf4d.png' alt='Amazon Lumberyard'>
@@ -848,34 +848,34 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[Sirupsen/logrus](https://github.com/fsouza/go-dockerclient)|v0.5.3|N/A|N/A |BSD-2-Clause|N/A|
-|[any](https://github.com/golang/protobuf)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
-|[btree](https://github.com/google/btree)|v1.0.1|N/A|N/A |Apache-2.0|N/A|
-|[bufs](https://github.com/cznic/bufs)|v0.1.0|N/A|N/A |BSD-3-Clause|N/A|
-|[clientcmd/api](https://github.com/kubernetes/kubernetes)|v1.3.1|N/A|N/A |Apache-2.0|N/A|
-|[dockerversion](https://github.com/docker/docker)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
-|[fsnotify](https://github.com/fsnotify/fsnotify)|v1.0.1|N/A|N/A |BSD-3-Clause|N/A|
-|[go-ini](https://github.com/vaughan0/go-ini)|v1.61.1501|N/A|N/A |MIT|N/A|
-|[go/internal](https://github.com/GoogleCloudPlatform/gcloud-golang)|v0.7.0|N/A|N/A |Apache-2.0|N/A|
-|[golang.org/x/net/context](https://github.com/fsouza/go-dockerclient)|v0.0.0|N/A|N/A |BSD-2-Clause|N/A|
-|[gomega](https://github.com/onsi/gomega)|v0.9.2|N/A|N/A |MIT|N/A|
-|[gophercloud/openstack/utils](https://github.com/gophercloud/gophercloud)|v0.0.0|N/A|N/A |Other|N/A|
-|[httplex](https://github.com/golang/net/)|v0.3.1|N/A|N/A |BSD-3-Clause|N/A|
-|[json-patch](https://github.com/evanphx/json-patch)|v0.5.8|N/A|N/A |BSD-3-Clause|N/A|
-|[mapstructure](https://github.com/mitchellh/mapstructure)|v0.5.0|N/A|N/A |MIT|N/A|
-|[networking/v2/ports](https://github.com/rackspace/gophercloud)|v1.0.0|N/A|N/A |Other|N/A|
-|[otto](https://github.com/robertkrimen/otto)|v1.9.0|N/A|N/A |MIT|N/A|
-|[parsers](https://github.com/docker/docker)|v1.0.4|N/A|N/A |Apache-2.0|N/A|
-|[pbkdf2](https://github.com/golang/crypto/)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
-|[pkcs11](https://github.com/miekg/pkcs11)|v1.0.0|N/A|N/A |BSD-3-Clause|N/A|
-|[pkg/ioutils](https://github.com/fsouza/go-dockerclient)|v0.9.0|N/A|N/A |BSD-2-Clause|N/A|
-|[podsecuritypolicy/seccomp](https://github.com/kubernetes/kubernetes)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
-|[protocol/ec2query](https://github.com/aws/aws-sdk-go)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
-|[ptypes](https://github.com/golang/protobuf)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
-|[ratelimit](https://github.com/juju/ratelimit)|v0.1.0|N/A|N/A |Other|N/A|
-|[swift](https://github.com/ncw/swift)|v1.0.0|N/A|N/A |MIT|N/A|
-|[testify/mock](https://github.com/stretchr/testify)|v1.0.0|N/A|N/A |MIT|N/A|
-|[tools/metrics](https://github.com/kubernetes/client-go)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
+|[Sirupsen/logrus](https://pkg.go.dev/github.com/fsouza/go-dockerclient/external/github.com/Sirupsen/logrus)|v0.5.3|N/A|N/A |BSD-2-Clause|N/A|
+|[any](https://pkg.go.dev/github.com/golang/protobuf/ptypes/any)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
+|[btree](https://pkg.go.dev/github.com/google/btree)|v1.0.1|N/A|N/A |Apache-2.0|N/A|
+|[bufs](https://pkg.go.dev/github.com/cznic/bufs)|v0.1.0|N/A|N/A |BSD-3-Clause|N/A|
+|[clientcmd/api](https://pkg.go.dev/k8s.io/kubernetes/pkg/client/unversioned/clientcmd/api)|v1.3.1|N/A|N/A |Apache-2.0|N/A|
+|[dockerversion](https://pkg.go.dev/github.com/docker/docker/dockerversion)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
+|[fsnotify](https://pkg.go.dev/github.com/fsnotify/fsnotify)|v1.0.1|N/A|N/A |BSD-3-Clause|N/A|
+|[go-ini](https://pkg.go.dev/github.com/vaughan0/go-ini)|v1.61.1501|N/A|N/A |MIT|N/A|
+|[go/internal](https://pkg.go.dev/cloud.google.com/go/internal)|v0.7.0|N/A|N/A |Apache-2.0|N/A|
+|[golang.org/x/net/context](https://pkg.go.dev/github.com/fsouza/go-dockerclient/external/golang.org/x/net/context)|v0.0.0|N/A|N/A |BSD-2-Clause|N/A|
+|[gomega](https://pkg.go.dev/github.com/onsi/gomega)|v0.9.2|N/A|N/A |MIT|N/A|
+|[gophercloud/openstack/utils](https://pkg.go.dev/github.com/gophercloud/gophercloud/openstack/utils)|v0.0.0|N/A|N/A |Other|N/A|
+|[httplex](https://pkg.go.dev/golang.org/x/net/lex/httplex)|v0.3.1|N/A|N/A |BSD-3-Clause|N/A|
+|[json-patch](https://pkg.go.dev/github.com/evanphx/json-patch)|v0.5.8|N/A|N/A |BSD-3-Clause|N/A|
+|[mapstructure](https://pkg.go.dev/github.com/mitchellh/mapstructure)|v0.5.0|N/A|N/A |MIT|N/A|
+|[networking/v2/ports](https://pkg.go.dev/github.com/rackspace/gophercloud/openstack/networking/v2/ports)|v1.0.0|N/A|N/A |Other|N/A|
+|[otto](https://pkg.go.dev/github.com/robertkrimen/otto)|v1.9.0|N/A|N/A |MIT|N/A|
+|[parsers](https://pkg.go.dev/github.com/docker/docker/pkg/parsers)|v1.0.4|N/A|N/A |Apache-2.0|N/A|
+|[pbkdf2](https://pkg.go.dev/golang.org/x/crypto/pbkdf2)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
+|[pkcs11](https://pkg.go.dev/github.com/miekg/pkcs11)|v1.0.0|N/A|N/A |BSD-3-Clause|N/A|
+|[pkg/ioutils](https://pkg.go.dev/github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/ioutils)|v0.9.0|N/A|N/A |BSD-2-Clause|N/A|
+|[podsecuritypolicy/seccomp](https://pkg.go.dev/k8s.io/kubernetes/pkg/security/podsecuritypolicy/seccomp)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
+|[protocol/ec2query](https://pkg.go.dev/github.com/aws/aws-sdk-go/internal/protocol/ec2query)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
+|[ptypes](https://pkg.go.dev/github.com/golang/protobuf/ptypes)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
+|[ratelimit](https://pkg.go.dev/github.com/juju/ratelimit)|v0.1.0|N/A|N/A |Other|N/A|
+|[swift](https://pkg.go.dev/github.com/ncw/swift)|v1.0.0|N/A|N/A |MIT|N/A|
+|[testify/mock](https://pkg.go.dev/github.com/stretchr/testify/mock)|v1.0.0|N/A|N/A |MIT|N/A|
+|[tools/metrics](https://pkg.go.dev/k8s.io/client-go/tools/metrics)|v0.0.0|N/A|N/A |Apache-2.0|N/A|
 
 <br/>
 <div align='center'>
