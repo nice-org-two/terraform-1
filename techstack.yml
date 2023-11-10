@@ -1,7 +1,7 @@
 repo_name: nice-org-two/terraform-1
-report_id: 93eb525cc3c30bc528663bb7f2ea5f7e
+report_id: ec227aa43d2c1c208fea87d7c716f4b7
 repo_type: Public
-timestamp: '2023-11-08T20:27:28+00:00'
+timestamp: '2023-11-10T16:38:54+00:00'
 requested_by: apparentlymart
 provider: github
 branch: main
@@ -28,6 +28,8 @@ tools:
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
   detection_source: website/package.json
+  last_updated_by: Kevin Wang
+  last_updated_on: 2022-04-21 17:58:16.000000000 Z
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
     files. Shell scripts typically manage program execution.
@@ -49,6 +51,8 @@ tools:
   image_url: https://img.stackshare.io/service/5936/nextjs.png
   detection_source_url: website/package-lock.json
   detection_source: website/package.json
+  last_updated_by: Kevin Wang
+  last_updated_on: 2022-04-21 17:58:16.000000000 Z
 - name: Protobuf
   description: Google's data interchange format
   website_url: https://developers.google.com/protocol-buffers/
@@ -58,6 +62,8 @@ tools:
   sub_category: Serialization Frameworks
   image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
   detection_source: go.mod
+  last_updated_by: James Bardin
+  last_updated_on: 2022-06-27 18:54:02.000000000 Z
 - name: Amazon Managed Workflows for Apache Airflow
   description: Highly available, secure, and managed workflow orchestration for Apache
     Airflow
@@ -70,6 +76,8 @@ tools:
   image_url: https://img.stackshare.io/service/21799/default_c1b593d0eeac611b97edee3d68e1f785312c9914.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Data Generator for Oracle
   description: Generate Large Datasets of Oracle Test Data
   website_url: https://www.devart.com/dbforge/oracle/data-generator/
@@ -81,6 +89,8 @@ tools:
   image_url: https://img.stackshare.io/service/21191/default_1d21287b1234e1c633629cd5f671afd79b33b571.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Data Warehouses by Freshpaint
   description: Customer data in any warehouse. Retroactively. In one click
   website_url: https://www.freshpaint.io/product/warehouses
@@ -92,6 +102,8 @@ tools:
   image_url: https://img.stackshare.io/service/21707/default_8a8dd7da278574d984423a5b59b816f079f8b5c9.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Jitsu
   description: Open-source event collection and data integration
   website_url: https://jitsu.com/
@@ -104,6 +116,8 @@ tools:
   image_url: https://img.stackshare.io/service/21529/default_7413c21e0ebfd8eea466763569e8f7defd17e93a.jpg
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Juniper GraphQL
   description: GraphQL server library for Rust
   website_url: https://crates.io/crates/juniper
@@ -115,6 +129,8 @@ tools:
   image_url: https://img.stackshare.io/service/21838/default_f77f1e94d558e229a982490ddb0fc39a81ea2e84.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Parity
   description: Blockchain Infrastructure for the Decentralised Web
   website_url: https://www.parity.io/
@@ -126,6 +142,8 @@ tools:
   image_url: https://img.stackshare.io/service/21153/default_e7ffd9513374109d00c62e9730418f78ee0a8e91.jpg
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Quickwork
   description: The Integration and API platform to build automated workflows
   website_url: https://quickwork.co/
@@ -137,6 +155,8 @@ tools:
   image_url: https://img.stackshare.io/service/21122/default_1f970871c388438e737793ed23ce9b5099a178cf.jpg
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: dbForge Query Builder for MySQL
   description: Generate and Edit MySQL Queries Visually
   website_url: https://www.devart.com/dbforge/mysql/querybuilder/
@@ -148,6 +168,8 @@ tools:
   image_url: https://img.stackshare.io/service/21197/default_8a0f32264df8a72e42495ce2cac4974819fe2aef.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: dbForge Schema Compare for Redshift/PostgreSQL
   description: Compare and Sync PostgreSQL &amp; Amazon Redshift Databases
   website_url: https://www.devart.com/dbforge/postgresql/schemacompare/
@@ -159,6 +181,8 @@ tools:
   image_url: https://img.stackshare.io/service/21199/default_fc2ebc762805baf8c27cb23feb12da62593659c2.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Brandon Croft
+  last_updated_on: 2022-07-25 19:50:57.000000000 Z
 - name: Cirrus CI
   description: Make your development cycle fast, efficient, and secure
   website_url: https://cirrus-ci.org/
@@ -171,6 +195,8 @@ tools:
   image_url: https://img.stackshare.io/service/21405/default_606db6f1b72bbb18cb2ac7ffea643b8f1fcc4981.jpg
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Codecov
   description: Hosted coverage reports with awesome features to enhance your CI workflow
   website_url: https://codecov.io/
@@ -180,6 +206,8 @@ tools:
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
   detection_source: codecov.yml
+  last_updated_by: Pam Selle
+  last_updated_on: 2020-03-04 20:19:42.000000000 Z
 - name: Docker
   description: Enterprise Container Platform for High-Velocity Innovation.
   website_url: https://www.docker.com/
@@ -202,6 +230,8 @@ tools:
   image_url: https://img.stackshare.io/service/21618/default_263f520e84b3c6019908a8434d449c889855068c.jpg
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -220,6 +250,8 @@ tools:
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
   detection_source: ".github/workflows/merged-pr.yml"
+  last_updated_by: Martin Atkins
+  last_updated_on: 2022-05-19 19:05:22.000000000 Z
 - name: Istio
   description: Open platform to connect, manage, and secure microservices, by Google,
     IBM, and Lyft
@@ -231,6 +263,8 @@ tools:
   sub_category: Microservices Tools
   image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
   detection_source: codecov.yml
+  last_updated_by: Martin Atkins
+  last_updated_on: 2021-12-23 00:47:15.000000000 Z
 - name: JBehave
   description: A framework for Behaviour-Driven Development (BDD)
   website_url: https://jbehave.org/
@@ -243,6 +277,8 @@ tools:
   image_url: https://img.stackshare.io/service/21152/default_be7d0621c1cb8392534d70dac8830cce7a486fd0.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Kotest
   description: Powerful, elegant and flexible test framework for Kotlin
   website_url: https://kotest.io/
@@ -255,6 +291,8 @@ tools:
   image_url: https://img.stackshare.io/service/21154/default_5b7922a99e2d777cabf7d8a9b4ba9ff0627eae82.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Nova
   description: The beautiful, fast, flexible, native Mac code editor
   website_url: https://nova.app/
@@ -266,6 +304,8 @@ tools:
   image_url: https://img.stackshare.io/service/21144/default_5df18050fa89a70e2738ac6c3635d847664bb971.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Anna Winkler
+  last_updated_on: 2022-07-18 19:15:37.000000000 Z
 - name: OpenYurt
   description: Extending your native Kubernetes to edge (by Alibaba)
   website_url: https://openyurt.io/en-us/
@@ -278,6 +318,8 @@ tools:
   image_url: https://img.stackshare.io/service/21147/default_f869ec037993bd2c3967e7b605ca929be6bbf362.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Sorry-cypress
   description: 'An open-source alternative to Cypress dashboard '
   website_url: https://sorry-cypress.dev/
@@ -290,6 +332,8 @@ tools:
   image_url: https://img.stackshare.io/service/21484/default_963b231bf851825f96921d525d274e8f0b342f21.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Terraform
   description: Describe your complete infrastructure as code and build resources across
     providers
@@ -301,6 +345,8 @@ tools:
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png
   detection_source: internal/terraform/testdata/validate-skipped-pc-empty/main.tf
+  last_updated_by: James Bardin
+  last_updated_on: 2018-03-09 23:38:41.000000000 Z
 - name: Terraform Registry
   description: Describe your complete infrastructure as code and build resources across
     providers
@@ -312,6 +358,8 @@ tools:
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package_manager/49093/default_cdf079d244bded073d455911e6ce679abb1b77ab.png
   detection_source: internal/terraform/testdata/validate-skipped-pc-empty/main.tf
+  last_updated_by: James Bardin
+  last_updated_on: 2018-03-09 23:38:41.000000000 Z
 - name: WebhookRelay
   description: The easier way to test &amp; connect
   website_url: https://webhookrelay.com/
@@ -323,6 +371,8 @@ tools:
   image_url: https://img.stackshare.io/service/21215/default_398a368cd5622ee6529f23799af5d8f63b643e88.jpg
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: ZyXel
   description: Your Networking Ally
   website_url: https://www.zyxel.com/us/en/
@@ -334,6 +384,8 @@ tools:
   image_url: https://img.stackshare.io/service/21126/default_82855a9a63ac94e02248a391b260a94acbafb41a.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Brandon Croft
+  last_updated_on: 2022-07-25 19:50:57.000000000 Z
 - name: npm
   description: The package manager for JavaScript.
   website_url: https://www.npmjs.com/
@@ -343,6 +395,8 @@ tools:
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
   detection_source: website/package.json
+  last_updated_by: Kevin Wang
+  last_updated_on: 2022-04-21 17:58:16.000000000 Z
 - name: Shelly Cloud
   description: Platform for hosting your Ruby and Rails apps (hosted in Europe)
   website_url: https://shellycloud.com/
@@ -352,6 +406,8 @@ tools:
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/666/X0g3ER4B.png
   detection_source: go.mod
+  last_updated_by: kmoe
+  last_updated_on: 2022-05-31 15:12:56.000000000 Z
 - name: Amazon Lumberyard
   description: A game engine with no royalties or seat fees
   website_url: https://aws.amazon.com/lumberyard/
@@ -363,6 +419,8 @@ tools:
   image_url: https://img.stackshare.io/service/21759/default_5c53af6aae91062d807462815c519a7745aabf4d.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Mojito
   description: A professional, open source split testing framework
   website_url: https://mojito.mx/
@@ -375,6 +433,8 @@ tools:
   image_url: https://img.stackshare.io/service/21128/default_365d9038c30c48f50098c35273682af3bc86e218.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Brandon Croft
+  last_updated_on: 2022-07-25 19:50:57.000000000 Z
 - name: Shufti Pro
   description: Real-time Identity Verification
   website_url: https://shuftipro.com/
@@ -384,6 +444,8 @@ tools:
   sub_category: Identity Verification as a Service
   image_url: https://img.stackshare.io/service/21558/default_44cf04260e415c9c264c0736be65f267677c3097.png
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Simple Analytics
   description: Simple, clean, and privacy-friendly analytics
   website_url: https://simpleanalytics.com
@@ -395,6 +457,8 @@ tools:
   image_url: https://img.stackshare.io/service/21298/default_3e94918409fb0890c50a99024c2b47b1df7577e3.jpg
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: UserExperior
   description: User recordings, heatmaps, funnel drop analysis, and app analytics
     for mobile apps
@@ -407,6 +471,8 @@ tools:
   image_url: https://img.stackshare.io/service/21784/default_4868b22639885f7e5ae55e012952ca11acc0da00.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Abstract APIs
   description: Simple, powerful APIs for everyday dev tasks
   website_url: https://www.abstractapi.com/
@@ -418,6 +484,8 @@ tools:
   image_url: https://img.stackshare.io/service/21140/default_8a94513f1340db48c564130fc609b4ce3d010a76.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: AppConvertly.com
   description: Convert your website into iOS &amp; Android app. No coding
   website_url: https://www.appconvertly.com/
@@ -429,6 +497,8 @@ tools:
   image_url: https://img.stackshare.io/service/21546/default_9d8d550cb66354aaa97db11bda2dadc569edb8ec.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Appzi
   description: A web based user feedback platform that enables SaaS companies to collect
     product feedback, right from within their website or app
@@ -441,6 +511,8 @@ tools:
   image_url: https://img.stackshare.io/service/21120/default_ff503018433e4c15bd8f88f38f956808d71ae76e.jpg
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Brandon Croft
+  last_updated_on: 2022-07-25 19:50:57.000000000 Z
 - name: Axiell Collections
   website_url: https://www.axiell.com/solutions/product/axiell-collections/
   version: 0.5.0
@@ -449,6 +521,8 @@ tools:
   image_url: https://img.stackshare.io/service/21203/default_e83656254ceca8a19a90cf2e6b31c38ba31a23bb.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Blueground
   description: Move-in ready, beautifully furnished apartments for stays of a month,
     year or even longer
@@ -461,6 +535,8 @@ tools:
   image_url: https://img.stackshare.io/service/21348/default_1708964b3ede87764620fdb8041cec7b4a275188.jpg
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: CALIPIO Recorder
   description: Secure screen and webcam recording in your browser
   website_url: https://recorder.calipio.com
@@ -470,6 +546,8 @@ tools:
   image_url: https://img.stackshare.io/service/21845/default_68651d778c8418423d985b3864a908913648b92c.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Clutch.io
   website_url: 'Https://clutch.io '
   version: 0.4.0
@@ -478,6 +556,8 @@ tools:
   image_url: https://img.stackshare.io/service/21737/default_4315d5471752ca1edfed1da3b3623ae92984a393.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Content Discovery Feed
   description: Get inspired by new articles whenever you open a new tab
   website_url: https://storychief.io/content-discovery
@@ -489,6 +569,8 @@ tools:
   image_url: https://img.stackshare.io/service/21138/default_1333cc334a57817c9ab69aeb76cfdcafe582056a.jpg
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: DevSkim
   description: A set of IDE plugins and rules that provide security "linting" capabilities
     (by Microsoft)
@@ -502,6 +584,8 @@ tools:
   image_url: https://img.stackshare.io/service/21614/default_f257b5cc2726c89cbe3cb363b49fd1dbabdbd172.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: DrugsDisclosed
   description: DrugsDisclosed.com, the ‘medication Trustpilot’, allows patients to
     share real world experiences of their medicines.
@@ -514,6 +598,8 @@ tools:
   image_url: https://img.stackshare.io/service/21139/default_a91af1b38a50bbe8d5c2a2885d3add753139c68e.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Dutypare
   description: Comparing duty free products from worldwide shops.
   website_url: https://dutypare.com
@@ -523,6 +609,8 @@ tools:
   image_url: https://img.stackshare.io/service/21119/default_7d7cdfe126e00b141809117af1af8ba177913dc4.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Brandon Croft
+  last_updated_on: 2022-07-25 19:50:57.000000000 Z
 - name: Eniston
   description: Easy to use Knowledge Base Software you will love managing.
   website_url: https://eniston.io
@@ -532,6 +620,8 @@ tools:
   image_url: https://img.stackshare.io/service/21626/default_c0fde59b2b87032b98232418403c06ab20941ac3.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Financial Cents
   description: An easy-to-use accounting practice management software
   website_url: https://financial-cents.com/
@@ -543,6 +633,8 @@ tools:
   image_url: https://img.stackshare.io/service/21601/default_9e3ad30996dd9561abe373f7d6ad50535688c245.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Finder.io
   description: Email finder &amp; validation tool
   website_url: https://finder.io/
@@ -554,6 +646,8 @@ tools:
   image_url: https://img.stackshare.io/service/21202/default_1d8852f33de7f06897c85459e95f0572c83aa76c.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: HelioHost
   description: Community powered free hosting for everyone
   website_url: https://www.heliohost.org/
@@ -565,6 +659,8 @@ tools:
   image_url: https://img.stackshare.io/service/21136/default_8b5bd108e202fe0a7dda1dd539928142a045abb3.jpg
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: InVision Studio
   description: Screen design. Redesigned
   website_url: https://www.invisionapp.com/studio
@@ -576,6 +672,8 @@ tools:
   image_url: https://img.stackshare.io/service/21319/default_5b524a13b50d545f281f91ae8135508b36ce90be.jpg
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: JetBrains Toolbox
   website_url: https://www.jetbrains.com/lp/toolbox/
   version: 0.3.1
@@ -584,6 +682,8 @@ tools:
   image_url: https://img.stackshare.io/service/21159/default_15d84d743a05c34a32cfd8708e7ef1266d0c4b77.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Laravel Horizon
   website_url: https://laravel.com/docs/master/horizon
   version: 1.2.0
@@ -592,6 +692,8 @@ tools:
   image_url: https://img.stackshare.io/service/21156/default_6d2d8b3cae9a903e4a34054ca1111e74abdae434.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Layers Education
   description: Platform to integrate digital solutions in the education market
   website_url: https://layers.education/
@@ -601,6 +703,8 @@ tools:
   image_url: https://img.stackshare.io/service/21161/default_8b04c9d4f8310a7ae636d0b92fdd9fd925afe181.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Locutus
   website_url: https://locutus.io/
   version: 0.0.0
@@ -609,6 +713,8 @@ tools:
   image_url: https://img.stackshare.io/service/21474/default_60765f03bff1080a9412e449db13636b317c3cb6.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Modyo Customer Portals
   description: Build highly personalized customer portals
   website_url: https://www.modyo.com/solution/customer-portals
@@ -620,6 +726,8 @@ tools:
   image_url: https://img.stackshare.io/service/21315/default_499399dc690af0e91d379644dec00880e20c6f5a.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: OGCAPI
   website_url: https://ogcapi.ogc.org/
   version: 1.1.1
@@ -628,6 +736,8 @@ tools:
   image_url: https://img.stackshare.io/service/21651/default_9a3d2b24ff68521a199b799149b8c1415f5be9fc.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Outflash
   description: "#1 email enhancement add-in for Outlook"
   website_url: https://outflash.xyz
@@ -637,6 +747,8 @@ tools:
   image_url: https://img.stackshare.io/service/21931/default_4ca7826f0adcaa1d0edab80159dce2b16e06c99c.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Anna Winkler
+  last_updated_on: 2022-07-18 19:15:37.000000000 Z
 - name: PodRoom
   description: A chatroom platform for Podcast communities.
   website_url: https://www.podroom.live
@@ -648,6 +760,8 @@ tools:
   image_url: https://img.stackshare.io/service/21118/default_9a7a00fb1b5d7592ccf97fa29f819c3ea64179da.jpg
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Anna Winkler
+  last_updated_on: 2022-07-18 19:15:37.000000000 Z
 - name: Portfoleon
   description: Lean PPM and roadmapping software
   website_url: https://www.portfoleon.com
@@ -659,6 +773,8 @@ tools:
   image_url: https://img.stackshare.io/service/21782/default_fcbbc5adc35ec5a0ba74910b4e7156d57c1d3155.jpg
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Premoney
   description: Discover high growth Premoney startups.
   website_url: https://premoney.xyz
@@ -668,6 +784,8 @@ tools:
   image_url: https://img.stackshare.io/service/21979/default_24bbcf294ee17f543d648d572c9478f29023bef4.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: PyCodeQual
   website_url: https://pycodequ.al/i
   version: 1.1.1
@@ -676,6 +794,8 @@ tools:
   image_url: https://img.stackshare.io/service/21246/default_ea396f63a8974b2c19460a4ea524ea4c3a3a110f.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Quickwork Journey Builder
   website_url: https://automation.quickwork.co/#/
   version: 0.0.0
@@ -684,6 +804,8 @@ tools:
   image_url: https://img.stackshare.io/service/21121/default_682895d4f0a2777cec582ef7c7f20fd167c1ce11.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Brandon Croft
+  last_updated_on: 2022-07-25 19:50:57.000000000 Z
 - name: Savio.io
   description: Track feature requests from Intercom, Help Scout, Slack, and more
   website_url: https://www.savio.io/
@@ -695,6 +817,8 @@ tools:
   image_url: https://img.stackshare.io/service/21209/default_fd6f4bea3e63552cb3b90f56c124b0f109addbee.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Martin Atkins
+  last_updated_on: 2018-08-24 23:13:05.000000000 Z
 - name: Stagy
   description: Stagings made simple
   website_url: https://stagy.dev/
@@ -704,6 +828,8 @@ tools:
   image_url: https://img.stackshare.io/service/21471/default_e6a21c3094795c651f23af890e15de225b38ebb2.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Swiper Slider
   description: The Most Modern Mobile Touch Slider
   website_url: https://swiperjs.com/
@@ -716,6 +842,8 @@ tools:
   image_url: https://img.stackshare.io/service/21212/default_5a94ffae10b58d58b627f27e5c21cb4a919801c3.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Upfeed
   description: Get instant feedback from now
   website_url: https://www.upfeed.co/
@@ -725,6 +853,8 @@ tools:
   image_url: https://img.stackshare.io/service/21841/default_b5a2e282bf6a607a5275246db8d4b596cc0b794e.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: WSL
   description: Run a GNU/Linux environment directly on Windows
   website_url: https://docs.microsoft.com/en-us/windows/wsl/about
@@ -736,6 +866,8 @@ tools:
   image_url: https://img.stackshare.io/service/21407/default_50834d775ade6b5f1b26a16b626ef3058b6ccf58.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: ZyWall
   website_url: https://www.zyxel.com/us/en
   version: 0.0.0
@@ -744,6 +876,8 @@ tools:
   image_url: https://img.stackshare.io/service/21125/default_a37b436cb360d7db5c0521e74ebeb8e50f8ffc58.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Brandon Croft
+  last_updated_on: 2022-07-25 19:50:57.000000000 Z
 - name: arrow-kt
   website_url: https://arrow-kt.io
   version: 0.0.3
@@ -752,6 +886,8 @@ tools:
   image_url: https://img.stackshare.io/service/21132/default_742c3d430f39b43d45c52805a75a9334d7d97a18.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: dbForge Data Generator for SQL Server
   description: A powerful GUI tool for a fast generation of meaningful test data for
     databases
@@ -762,6 +898,8 @@ tools:
   image_url: https://img.stackshare.io/service/21180/default_ea71b530d72efa192bf97c176bd3823d8911a9d8.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: firebase remote config
   website_url: https://firebase.google.com/docs/remote-config
   version: 0.26.0
@@ -770,6 +908,8 @@ tools:
   image_url: https://img.stackshare.io/service/21151/default_694421a607ee3b50a4add2e20d781a7ad15ab0b4.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: 'go '
   description: Go will make you love programming again. I promise.
   website_url: https://golang.org/
@@ -777,6 +917,8 @@ tools:
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3458/v02jhlxou71qagr6mwet_normal.png
   detection_source: checkpoint.go
+  last_updated_by: Mitchell Hashimoto
+  last_updated_on: 2014-10-13 21:05:29.000000000 Z
 - name: idashboard
   website_url: https://www.idashboards.com/
   version: 1.0.0
@@ -785,6 +927,8 @@ tools:
   image_url: https://img.stackshare.io/service/22044/default_4cde671a75324011a3bc8f613c1b156a9675d55f.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: indexer.express
   website_url: https://indexer.express/
   version: 0.3.0
@@ -793,6 +937,8 @@ tools:
   image_url: https://img.stackshare.io/service/22007/default_6156425c0f865da72cc663ac48c25da8545c40ab.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: koalas
   website_url: https://koalas.readthedocs.io/
   version: 0.9.1
@@ -801,6 +947,8 @@ tools:
   image_url: https://img.stackshare.io/service/21240/default_f752ec7f084669cc7a76c7c2a6ec3c8580de2c8a.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Anna Winkler
+  last_updated_on: 2022-07-18 19:15:37.000000000 Z
 - name: meml
   website_url: https://github.com/fivnex/meml
   version: 0.0.0
@@ -809,6 +957,8 @@ tools:
   image_url: https://img.stackshare.io/service/22004/default_50abed759307f52ce2c594a4b0d1deb1999a4b99.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: nootiz
   description: The fastest visual website feedback tool for web agencies, web designers,
     copywriters and web developers
@@ -819,6 +969,8 @@ tools:
   image_url: https://img.stackshare.io/service/21170/default_f061e6941a00ef2eeb5954eb77a48b7f6626fd91.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: rennflow
   website_url: https://rennflow.com
   version: 1.0.0
@@ -827,6 +979,8 @@ tools:
   image_url: https://img.stackshare.io/service/21201/default_80012ffc0fdda5946338789250eab4bd462bfa97.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: sktime
   description: A unified toolbox for machine learning with time series (by The Alan
     Turing Institute)
@@ -840,6 +994,8 @@ tools:
   image_url: https://img.stackshare.io/service/21145/default_e666d7c3f53fbe0134f58c3072ae6af7c46cf562.jpg
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: weld
   website_url: https://weld.cdi-spec.org/
   version: 0.0.0
@@ -848,6 +1004,8 @@ tools:
   image_url: https://img.stackshare.io/service/21476/default_9351a4df1d1f3f6c75972a2db50a4242991b5d4d.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: Sirupsen/logrus
   description: Go client for the Docker Engine API
   package_url: https://pkg.go.dev/github.com/fsouza/go-dockerclient/external/github.com/Sirupsen/logrus
@@ -860,6 +1018,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: any
   description: Go support for Google's protocol buffers
   package_url: https://pkg.go.dev/github.com/golang/protobuf/ptypes/any
@@ -872,6 +1032,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: btree
   description: Package btree implements in-memory B-Trees of arbitrary degree
   package_url: https://pkg.go.dev/github.com/google/btree
@@ -884,6 +1046,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: bufs
   description: Package bufs implements a simple buffer cache
   package_url: https://pkg.go.dev/github.com/cznic/bufs
@@ -896,6 +1060,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: clientcmd/api
   description: Production-Grade Container Scheduling and Management
   package_url: https://pkg.go.dev/k8s.io/kubernetes/pkg/client/unversioned/clientcmd/api
@@ -908,6 +1074,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: dockerversion
   description: Moby Project - a collaborative project for the container ecosystem
     to assemble container-based systems
@@ -921,6 +1089,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: fsnotify
   description: Cross-platform file system notifications for Go
   package_url: https://pkg.go.dev/github.com/fsnotify/fsnotify
@@ -933,6 +1103,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: go-ini
   description: INI parsing library for Go
   package_url: https://pkg.go.dev/github.com/vaughan0/go-ini
@@ -945,6 +1117,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: go/internal
   description: Google Cloud Client Libraries for Go
   package_url: https://pkg.go.dev/cloud.google.com/go/internal
@@ -957,6 +1131,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: golang.org/x/net/context
   description: Go client for the Docker Engine API
   package_url: https://pkg.go.dev/github.com/fsouza/go-dockerclient/external/golang.org/x/net/context
@@ -969,6 +1145,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: gomega
   description: Ginkgo's Preferred Matcher Library
   package_url: https://pkg.go.dev/github.com/onsi/gomega
@@ -981,6 +1159,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: gophercloud/openstack/utils
   description: 'Gophercloud: an OpenStack SDK for Go'
   package_url: https://pkg.go.dev/github.com/gophercloud/gophercloud/openstack/utils
@@ -993,6 +1173,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: httplex
   description: Go supplementary network libraries
   package_url: https://pkg.go.dev/golang.org/x/net/lex/httplex
@@ -1005,6 +1187,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: json-patch
   description: A Go library to apply RFC6902 patches and create and apply RFC7386
     patches
@@ -1018,6 +1202,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: mapstructure
   description: Go library for decoding generic map values into native Go structures
   package_url: https://pkg.go.dev/github.com/mitchellh/mapstructure
@@ -1030,6 +1216,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: networking/v2/ports
   description: 'A Go SDK for OpenStack. IN FEATURE FREEZE. See Issue #592'
   package_url: https://pkg.go.dev/github.com/rackspace/gophercloud/openstack/networking/v2/ports
@@ -1042,6 +1230,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: otto
   description: A JavaScript interpreter in Go
   package_url: https://pkg.go.dev/github.com/robertkrimen/otto
@@ -1054,6 +1244,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: parsers
   description: Moby Project - a collaborative project for the container ecosystem
     to assemble container-based systems
@@ -1067,6 +1259,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: pbkdf2
   description: Go supplementary cryptography libraries
   package_url: https://pkg.go.dev/golang.org/x/crypto/pbkdf2
@@ -1079,6 +1273,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: pkcs11
   description: Pkcs11 wrapper for Go
   package_url: https://pkg.go.dev/github.com/miekg/pkcs11
@@ -1091,6 +1287,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: pkg/ioutils
   description: Go client for the Docker Engine API
   package_url: https://pkg.go.dev/github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/ioutils
@@ -1103,6 +1301,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: podsecuritypolicy/seccomp
   description: Production-Grade Container Scheduling and Management
   package_url: https://pkg.go.dev/k8s.io/kubernetes/pkg/security/podsecuritypolicy/seccomp
@@ -1115,6 +1315,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: protocol/ec2query
   description: AWS SDK for the Go programming language
   package_url: https://pkg.go.dev/github.com/aws/aws-sdk-go/internal/protocol/ec2query
@@ -1127,6 +1329,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: ptypes
   description: Go support for Google's protocol buffers
   package_url: https://pkg.go.dev/github.com/golang/protobuf/ptypes
@@ -1139,6 +1343,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: ratelimit
   description: Efficient token-bucket-based rate limiter package
   package_url: https://pkg.go.dev/github.com/juju/ratelimit
@@ -1151,6 +1357,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: swift
   description: Go language interface to Swift / Openstack Object Storage / Rackspace
     cloud files
@@ -1164,6 +1372,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: testify/mock
   description: A toolkit with common assertions and mocks that plays nicely with the
     standard library
@@ -1177,6 +1387,8 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
 - name: tools/metrics
   description: Go client for Kubernetes
   package_url: https://pkg.go.dev/k8s.io/client-go/tools/metrics
@@ -1189,3 +1401,5 @@ tools:
   image_url: https://img.stackshare.io/package/go-packages/image.png
   detection_source_url: go.sum
   detection_source: go.mod
+  last_updated_by: Megan Bang
+  last_updated_on: 2022-08-30 22:01:44.000000000 Z
