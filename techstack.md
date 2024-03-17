@@ -1,128 +1,130 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 nice-org-two/terraform-1 is built on the following main stack:
-- [Shelly Cloud](https://shellycloud.com/) – Platform as a Service
+
 - [Golang](http://golang.org/) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Terraform](https://www.terraform.io/) – Server Configuration and Automation
-- [Codecov](https://codecov.io/) – Code Coverage
-- [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
 - [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
-- [Istio](https://istio.io/) – Microservices Tools
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [PodRoom](https://www.podroom.live) – Customer Community
-- [Appzi](https://www.appzi.com/) – Feedback Widget
-- [Quickwork](https://quickwork.co/) – Workflow Manager
-- [ZyXel](https://www.zyxel.com/us/en/) – Networking Hardware
-- [Mojito](https://mojito.mx/) – A/B Testing Analytics
-- [HelioHost](https://www.heliohost.org/) – Static Web Hosting
-- [Content Discovery Feed](https://storychief.io/content-discovery) – Knowledge Management
-- [DrugsDisclosed](https://www.DrugsDisclosed.com) – Healthcare
-- [Abstract APIs](https://www.abstractapi.com/) – Customer Information API
-- [Nova](https://nova.app/) – Text Editor
-- [sktime](https://www.sktime.org/en/latest/) – Machine Learning Tools
-- [OpenYurt](https://openyurt.io/en-us/) – Container Tools
-- [JBehave](https://jbehave.org/) – Testing Frameworks
-- [Parity](https://www.parity.io/) – Blockchain
-- [Kotest](https://kotest.io/) – Testing Frameworks
+- [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
+- [Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/managed-workflows-for-apache-airflow/) – Workflow Manager
 - [Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator/) – Database Tools
+- [Data Warehouses by Freshpaint](https://www.freshpaint.io/product/warehouses) – Big Data as a Service
+- [Jitsu](https://jitsu.com/) – Big Data as a Service
+- [Juniper GraphQL](https://crates.io/crates/juniper) – GraphQL Tools
+- [Parity](https://www.parity.io/) – Blockchain
+- [Quickwork](https://quickwork.co/) – Workflow Manager
 - [dbForge Query Builder for MySQL](https://www.devart.com/dbforge/mysql/querybuilder/) – Database Tools
 - [dbForge Schema Compare for Redshift/PostgreSQL](https://www.devart.com/dbforge/postgresql/schemacompare/) – Database Tools
-- [Finder.io](https://finder.io/) – Email Validator
-- [Savio.io](https://www.savio.io/) – Feedback Widget
-- [Swiper Slider](https://swiperjs.com/) – Mobile UI Components
-- [WebhookRelay](https://webhookrelay.com/) – localhost Tools
-- [Simple Analytics](https://simpleanalytics.com) – General Analytics
-- [Modyo Customer Portals](https://www.modyo.com/solution/customer-portals) – Customer Profiles
-- [InVision Studio](https://www.invisionapp.com/studio) – Graphic Design
-- [Blueground](https://www.theblueground.com/) – Property Management
 - [Cirrus CI](https://cirrus-ci.org/) – Continuous Integration
-- [WSL](https://docs.microsoft.com/en-us/windows/wsl/about) – Operating Systems
-- [Sorry-cypress](https://sorry-cypress.dev/) – Javascript Testing Framework
-- [Jitsu](https://jitsu.com/) – Big Data as a Service
-- [AppConvertly.com](https://www.appconvertly.com/) – Cross-Platform Mobile Tools
-- [Shufti Pro](https://shuftipro.com/) – Identity Verification as a Service
-- [Financial Cents](https://financial-cents.com/) – Accounting
-- [DevSkim](https://github.com/microsoft/DevSkim) – Security
-- [Garden](https://garden.io/product/) – Container Tools
-- [Data Warehouses by Freshpaint](https://www.freshpaint.io/product/warehouses) – Big Data as a Service
-- [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) – Game Development
-- [Portfoleon](https://www.portfoleon.com) – Project Management
-- [UserExperior](https://www.userexperior.com/) – Heatmap Analytics
-- [Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/managed-workflows-for-apache-airflow/) – Workflow Manager
-- [Juniper GraphQL](https://crates.io/crates/juniper) – GraphQL Tools
+- [Codecov](https://codecov.io/) – Code Coverage
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Garden](https://garden.io/product/) – Container Tools
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Istio](https://istio.io/) – Microservices Tools
+- [JBehave](https://jbehave.org/) – Testing Frameworks
+- [Kotest](https://kotest.io/) – Testing Frameworks
+- [Nova](https://nova.app/) – Text Editor
+- [OpenYurt](https://openyurt.io/en-us/) – Container Tools
+- [Sorry-cypress](https://sorry-cypress.dev/) – Javascript Testing Framework
+- [Terraform](https://www.terraform.io/) – Server Configuration and Automation
+- [WebhookRelay](https://webhookrelay.com/) – localhost Tools
+- [ZyXel](https://www.zyxel.com/us/en/) – Networking Hardware
+- [Shelly Cloud](https://shellycloud.com/) – Platform as a Service
+- [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) – Game Development
+- [Mojito](https://mojito.mx/) – A/B Testing Analytics
+- [Shufti Pro](https://shuftipro.com/) – Identity Verification as a Service
+- [Simple Analytics](https://simpleanalytics.com) – General Analytics
+- [UserExperior](https://www.userexperior.com/) – Heatmap Analytics
+- [Abstract APIs](https://www.abstractapi.com/) – Customer Information API
+- [AppConvertly.com](https://www.appconvertly.com/) – Cross-Platform Mobile Tools
+- [Appzi](https://www.appzi.com/) – Feedback Widget
+- [Blueground](https://www.theblueground.com/) – Property Management
+- [Content Discovery Feed](https://storychief.io/content-discovery) – Knowledge Management
+- [DevSkim](https://github.com/microsoft/DevSkim) – Security
+- [DrugsDisclosed](https://www.DrugsDisclosed.com) – Healthcare
+- [Financial Cents](https://financial-cents.com/) – Accounting
+- [Finder.io](https://finder.io/) – Email Validator
+- [HelioHost](https://www.heliohost.org/) – Static Web Hosting
+- [InVision Studio](https://www.invisionapp.com/studio) – Graphic Design
+- [Modyo Customer Portals](https://www.modyo.com/solution/customer-portals) – Customer Profiles
+- [PodRoom](https://www.podroom.live) – Customer Community
+- [Portfoleon](https://www.portfoleon.com) – Project Management
+- [Swiper Slider](https://swiperjs.com/) – Mobile UI Components
+- [WSL](https://docs.microsoft.com/en-us/windows/wsl/about) – Operating Systems
+- [sktime](https://www.sktime.org/en/latest/) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 nice-org-two/terraform-1 is built on the following main stack:
-- <img width='25' height='25' src='https://img.stackshare.io/service/666/X0g3ER4B.png' alt='Shelly Cloud'/> [Shelly Cloud](https://shellycloud.com/) – Platform as a Service
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png' alt='Terraform'/> [Terraform](https://www.terraform.io/) – Server Configuration and Automation
-- <img width='25' height='25' src='https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png' alt='Codecov'/> [Codecov](https://codecov.io/) – Code Coverage
-- <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/5936/nextjs.png' alt='Next.js'/> [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'/> [Istio](https://istio.io/) – Microservices Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/21118/default_9a7a00fb1b5d7592ccf97fa29f819c3ea64179da.jpg' alt='PodRoom'/> [PodRoom](https://www.podroom.live) – Customer Community
-- <img width='25' height='25' src='https://img.stackshare.io/service/21120/default_ff503018433e4c15bd8f88f38f956808d71ae76e.jpg' alt='Appzi'/> [Appzi](https://www.appzi.com/) – Feedback Widget
-- <img width='25' height='25' src='https://img.stackshare.io/service/21122/default_1f970871c388438e737793ed23ce9b5099a178cf.jpg' alt='Quickwork'/> [Quickwork](https://quickwork.co/) – Workflow Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/21126/default_82855a9a63ac94e02248a391b260a94acbafb41a.png' alt='ZyXel'/> [ZyXel](https://www.zyxel.com/us/en/) – Networking Hardware
-- <img width='25' height='25' src='https://img.stackshare.io/service/21128/default_365d9038c30c48f50098c35273682af3bc86e218.png' alt='Mojito'/> [Mojito](https://mojito.mx/) – A/B Testing Analytics
-- <img width='25' height='25' src='https://img.stackshare.io/service/21136/default_8b5bd108e202fe0a7dda1dd539928142a045abb3.jpg' alt='HelioHost'/> [HelioHost](https://www.heliohost.org/) – Static Web Hosting
-- <img width='25' height='25' src='https://img.stackshare.io/service/21138/default_1333cc334a57817c9ab69aeb76cfdcafe582056a.jpg' alt='Content Discovery Feed'/> [Content Discovery Feed](https://storychief.io/content-discovery) – Knowledge Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/21139/default_a91af1b38a50bbe8d5c2a2885d3add753139c68e.png' alt='DrugsDisclosed'/> [DrugsDisclosed](https://www.DrugsDisclosed.com) – Healthcare
-- <img width='25' height='25' src='https://img.stackshare.io/service/21140/default_8a94513f1340db48c564130fc609b4ce3d010a76.png' alt='Abstract APIs'/> [Abstract APIs](https://www.abstractapi.com/) – Customer Information API
-- <img width='25' height='25' src='https://img.stackshare.io/service/21144/default_5df18050fa89a70e2738ac6c3635d847664bb971.png' alt='Nova'/> [Nova](https://nova.app/) – Text Editor
-- <img width='25' height='25' src='https://img.stackshare.io/service/21145/default_e666d7c3f53fbe0134f58c3072ae6af7c46cf562.jpg' alt='sktime'/> [sktime](https://www.sktime.org/en/latest/) – Machine Learning Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/21147/default_f869ec037993bd2c3967e7b605ca929be6bbf362.png' alt='OpenYurt'/> [OpenYurt](https://openyurt.io/en-us/) – Container Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/21152/default_be7d0621c1cb8392534d70dac8830cce7a486fd0.png' alt='JBehave'/> [JBehave](https://jbehave.org/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/21153/default_e7ffd9513374109d00c62e9730418f78ee0a8e91.jpg' alt='Parity'/> [Parity](https://www.parity.io/) – Blockchain
-- <img width='25' height='25' src='https://img.stackshare.io/service/21154/default_5b7922a99e2d777cabf7d8a9b4ba9ff0627eae82.png' alt='Kotest'/> [Kotest](https://kotest.io/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/21799/default_c1b593d0eeac611b97edee3d68e1f785312c9914.png' alt='Amazon Managed Workflows for Apache Airflow'/> [Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/managed-workflows-for-apache-airflow/) – Workflow Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/21191/default_1d21287b1234e1c633629cd5f671afd79b33b571.png' alt='Data Generator for Oracle'/> [Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator/) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/21707/default_8a8dd7da278574d984423a5b59b816f079f8b5c9.png' alt='Data Warehouses by Freshpaint'/> [Data Warehouses by Freshpaint](https://www.freshpaint.io/product/warehouses) – Big Data as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/21529/default_7413c21e0ebfd8eea466763569e8f7defd17e93a.jpg' alt='Jitsu'/> [Jitsu](https://jitsu.com/) – Big Data as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/21838/default_f77f1e94d558e229a982490ddb0fc39a81ea2e84.png' alt='Juniper GraphQL'/> [Juniper GraphQL](https://crates.io/crates/juniper) – GraphQL Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/21153/default_e7ffd9513374109d00c62e9730418f78ee0a8e91.jpg' alt='Parity'/> [Parity](https://www.parity.io/) – Blockchain
+- <img width='25' height='25' src='https://img.stackshare.io/service/21122/default_1f970871c388438e737793ed23ce9b5099a178cf.jpg' alt='Quickwork'/> [Quickwork](https://quickwork.co/) – Workflow Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/21197/default_8a0f32264df8a72e42495ce2cac4974819fe2aef.png' alt='dbForge Query Builder for MySQL'/> [dbForge Query Builder for MySQL](https://www.devart.com/dbforge/mysql/querybuilder/) – Database Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/21199/default_fc2ebc762805baf8c27cb23feb12da62593659c2.png' alt='dbForge Schema Compare for Redshift/PostgreSQL'/> [dbForge Schema Compare for Redshift/PostgreSQL](https://www.devart.com/dbforge/postgresql/schemacompare/) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/21202/default_1d8852f33de7f06897c85459e95f0572c83aa76c.png' alt='Finder.io'/> [Finder.io](https://finder.io/) – Email Validator
-- <img width='25' height='25' src='https://img.stackshare.io/service/21209/default_fd6f4bea3e63552cb3b90f56c124b0f109addbee.png' alt='Savio.io'/> [Savio.io](https://www.savio.io/) – Feedback Widget
-- <img width='25' height='25' src='https://img.stackshare.io/service/21212/default_5a94ffae10b58d58b627f27e5c21cb4a919801c3.png' alt='Swiper Slider'/> [Swiper Slider](https://swiperjs.com/) – Mobile UI Components
-- <img width='25' height='25' src='https://img.stackshare.io/service/21215/default_398a368cd5622ee6529f23799af5d8f63b643e88.jpg' alt='WebhookRelay'/> [WebhookRelay](https://webhookrelay.com/) – localhost Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/21298/default_3e94918409fb0890c50a99024c2b47b1df7577e3.jpg' alt='Simple Analytics'/> [Simple Analytics](https://simpleanalytics.com) – General Analytics
-- <img width='25' height='25' src='https://img.stackshare.io/service/21315/default_499399dc690af0e91d379644dec00880e20c6f5a.png' alt='Modyo Customer Portals'/> [Modyo Customer Portals](https://www.modyo.com/solution/customer-portals) – Customer Profiles
-- <img width='25' height='25' src='https://img.stackshare.io/service/21319/default_5b524a13b50d545f281f91ae8135508b36ce90be.jpg' alt='InVision Studio'/> [InVision Studio](https://www.invisionapp.com/studio) – Graphic Design
-- <img width='25' height='25' src='https://img.stackshare.io/service/21348/default_1708964b3ede87764620fdb8041cec7b4a275188.jpg' alt='Blueground'/> [Blueground](https://www.theblueground.com/) – Property Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/21405/default_606db6f1b72bbb18cb2ac7ffea643b8f1fcc4981.jpg' alt='Cirrus CI'/> [Cirrus CI](https://cirrus-ci.org/) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/21407/default_50834d775ade6b5f1b26a16b626ef3058b6ccf58.png' alt='WSL'/> [WSL](https://docs.microsoft.com/en-us/windows/wsl/about) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/21484/default_963b231bf851825f96921d525d274e8f0b342f21.png' alt='Sorry-cypress'/> [Sorry-cypress](https://sorry-cypress.dev/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/21529/default_7413c21e0ebfd8eea466763569e8f7defd17e93a.jpg' alt='Jitsu'/> [Jitsu](https://jitsu.com/) – Big Data as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/21546/default_9d8d550cb66354aaa97db11bda2dadc569edb8ec.png' alt='AppConvertly.com'/> [AppConvertly.com](https://www.appconvertly.com/) – Cross-Platform Mobile Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/21558/default_44cf04260e415c9c264c0736be65f267677c3097.png' alt='Shufti Pro'/> [Shufti Pro](https://shuftipro.com/) – Identity Verification as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/21601/default_9e3ad30996dd9561abe373f7d6ad50535688c245.png' alt='Financial Cents'/> [Financial Cents](https://financial-cents.com/) – Accounting
-- <img width='25' height='25' src='https://img.stackshare.io/service/21614/default_f257b5cc2726c89cbe3cb363b49fd1dbabdbd172.png' alt='DevSkim'/> [DevSkim](https://github.com/microsoft/DevSkim) – Security
-- <img width='25' height='25' src='https://img.stackshare.io/service/21618/default_263f520e84b3c6019908a8434d449c889855068c.jpg' alt='Garden'/> [Garden](https://garden.io/product/) – Container Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/21707/default_8a8dd7da278574d984423a5b59b816f079f8b5c9.png' alt='Data Warehouses by Freshpaint'/> [Data Warehouses by Freshpaint](https://www.freshpaint.io/product/warehouses) – Big Data as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/21759/default_5c53af6aae91062d807462815c519a7745aabf4d.png' alt='Amazon Lumberyard'/> [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) – Game Development
-- <img width='25' height='25' src='https://img.stackshare.io/service/21782/default_fcbbc5adc35ec5a0ba74910b4e7156d57c1d3155.jpg' alt='Portfoleon'/> [Portfoleon](https://www.portfoleon.com) – Project Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/21784/default_4868b22639885f7e5ae55e012952ca11acc0da00.png' alt='UserExperior'/> [UserExperior](https://www.userexperior.com/) – Heatmap Analytics
-- <img width='25' height='25' src='https://img.stackshare.io/service/21799/default_c1b593d0eeac611b97edee3d68e1f785312c9914.png' alt='Amazon Managed Workflows for Apache Airflow'/> [Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/managed-workflows-for-apache-airflow/) – Workflow Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/21838/default_f77f1e94d558e229a982490ddb0fc39a81ea2e84.png' alt='Juniper GraphQL'/> [Juniper GraphQL](https://crates.io/crates/juniper) – GraphQL Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png' alt='Codecov'/> [Codecov](https://codecov.io/) – Code Coverage
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/21618/default_263f520e84b3c6019908a8434d449c889855068c.jpg' alt='Garden'/> [Garden](https://garden.io/product/) – Container Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'/> [Istio](https://istio.io/) – Microservices Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/21152/default_be7d0621c1cb8392534d70dac8830cce7a486fd0.png' alt='JBehave'/> [JBehave](https://jbehave.org/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/21154/default_5b7922a99e2d777cabf7d8a9b4ba9ff0627eae82.png' alt='Kotest'/> [Kotest](https://kotest.io/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/21144/default_5df18050fa89a70e2738ac6c3635d847664bb971.png' alt='Nova'/> [Nova](https://nova.app/) – Text Editor
+- <img width='25' height='25' src='https://img.stackshare.io/service/21147/default_f869ec037993bd2c3967e7b605ca929be6bbf362.png' alt='OpenYurt'/> [OpenYurt](https://openyurt.io/en-us/) – Container Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/21484/default_963b231bf851825f96921d525d274e8f0b342f21.png' alt='Sorry-cypress'/> [Sorry-cypress](https://sorry-cypress.dev/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png' alt='Terraform'/> [Terraform](https://www.terraform.io/) – Server Configuration and Automation
+- <img width='25' height='25' src='https://img.stackshare.io/service/21215/default_398a368cd5622ee6529f23799af5d8f63b643e88.jpg' alt='WebhookRelay'/> [WebhookRelay](https://webhookrelay.com/) – localhost Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/21126/default_82855a9a63ac94e02248a391b260a94acbafb41a.png' alt='ZyXel'/> [ZyXel](https://www.zyxel.com/us/en/) – Networking Hardware
+- <img width='25' height='25' src='https://img.stackshare.io/service/666/X0g3ER4B.png' alt='Shelly Cloud'/> [Shelly Cloud](https://shellycloud.com/) – Platform as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/21759/default_5c53af6aae91062d807462815c519a7745aabf4d.png' alt='Amazon Lumberyard'/> [Amazon Lumberyard](https://aws.amazon.com/lumberyard/) – Game Development
+- <img width='25' height='25' src='https://img.stackshare.io/service/21128/default_365d9038c30c48f50098c35273682af3bc86e218.png' alt='Mojito'/> [Mojito](https://mojito.mx/) – A/B Testing Analytics
+- <img width='25' height='25' src='https://img.stackshare.io/service/21558/default_44cf04260e415c9c264c0736be65f267677c3097.png' alt='Shufti Pro'/> [Shufti Pro](https://shuftipro.com/) – Identity Verification as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/21298/default_3e94918409fb0890c50a99024c2b47b1df7577e3.jpg' alt='Simple Analytics'/> [Simple Analytics](https://simpleanalytics.com) – General Analytics
+- <img width='25' height='25' src='https://img.stackshare.io/service/21784/default_4868b22639885f7e5ae55e012952ca11acc0da00.png' alt='UserExperior'/> [UserExperior](https://www.userexperior.com/) – Heatmap Analytics
+- <img width='25' height='25' src='https://img.stackshare.io/service/21140/default_8a94513f1340db48c564130fc609b4ce3d010a76.png' alt='Abstract APIs'/> [Abstract APIs](https://www.abstractapi.com/) – Customer Information API
+- <img width='25' height='25' src='https://img.stackshare.io/service/21546/default_9d8d550cb66354aaa97db11bda2dadc569edb8ec.png' alt='AppConvertly.com'/> [AppConvertly.com](https://www.appconvertly.com/) – Cross-Platform Mobile Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/21120/default_ff503018433e4c15bd8f88f38f956808d71ae76e.jpg' alt='Appzi'/> [Appzi](https://www.appzi.com/) – Feedback Widget
+- <img width='25' height='25' src='https://img.stackshare.io/service/21348/default_1708964b3ede87764620fdb8041cec7b4a275188.jpg' alt='Blueground'/> [Blueground](https://www.theblueground.com/) – Property Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/21138/default_1333cc334a57817c9ab69aeb76cfdcafe582056a.jpg' alt='Content Discovery Feed'/> [Content Discovery Feed](https://storychief.io/content-discovery) – Knowledge Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/21614/default_f257b5cc2726c89cbe3cb363b49fd1dbabdbd172.png' alt='DevSkim'/> [DevSkim](https://github.com/microsoft/DevSkim) – Security
+- <img width='25' height='25' src='https://img.stackshare.io/service/21139/default_a91af1b38a50bbe8d5c2a2885d3add753139c68e.png' alt='DrugsDisclosed'/> [DrugsDisclosed](https://www.DrugsDisclosed.com) – Healthcare
+- <img width='25' height='25' src='https://img.stackshare.io/service/21601/default_9e3ad30996dd9561abe373f7d6ad50535688c245.png' alt='Financial Cents'/> [Financial Cents](https://financial-cents.com/) – Accounting
+- <img width='25' height='25' src='https://img.stackshare.io/service/21202/default_1d8852f33de7f06897c85459e95f0572c83aa76c.png' alt='Finder.io'/> [Finder.io](https://finder.io/) – Email Validator
+- <img width='25' height='25' src='https://img.stackshare.io/service/21136/default_8b5bd108e202fe0a7dda1dd539928142a045abb3.jpg' alt='HelioHost'/> [HelioHost](https://www.heliohost.org/) – Static Web Hosting
+- <img width='25' height='25' src='https://img.stackshare.io/service/21319/default_5b524a13b50d545f281f91ae8135508b36ce90be.jpg' alt='InVision Studio'/> [InVision Studio](https://www.invisionapp.com/studio) – Graphic Design
+- <img width='25' height='25' src='https://img.stackshare.io/service/21315/default_499399dc690af0e91d379644dec00880e20c6f5a.png' alt='Modyo Customer Portals'/> [Modyo Customer Portals](https://www.modyo.com/solution/customer-portals) – Customer Profiles
+- <img width='25' height='25' src='https://img.stackshare.io/service/21118/default_9a7a00fb1b5d7592ccf97fa29f819c3ea64179da.jpg' alt='PodRoom'/> [PodRoom](https://www.podroom.live) – Customer Community
+- <img width='25' height='25' src='https://img.stackshare.io/service/21782/default_fcbbc5adc35ec5a0ba74910b4e7156d57c1d3155.jpg' alt='Portfoleon'/> [Portfoleon](https://www.portfoleon.com) – Project Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/21212/default_5a94ffae10b58d58b627f27e5c21cb4a919801c3.png' alt='Swiper Slider'/> [Swiper Slider](https://swiperjs.com/) – Mobile UI Components
+- <img width='25' height='25' src='https://img.stackshare.io/service/21407/default_50834d775ade6b5f1b26a16b626ef3058b6ccf58.png' alt='WSL'/> [WSL](https://docs.microsoft.com/en-us/windows/wsl/about) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/21145/default_e666d7c3f53fbe0134f58c3072ae6af7c46cf562.jpg' alt='sktime'/> [sktime](https://www.sktime.org/en/latest/) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nice-org-two/terraform-1](https://github.com/nice-org-two/terraform-1)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|111<br/>Tools used|11/13/23 <br/>Report generated|
+|110<br/>Tools used|03/17/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -458,7 +460,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (46)
+## Other (45)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21140/default_8a94513f1340db48c564130fc609b4ce3d010a76.png' alt='Abstract APIs'>
@@ -691,14 +693,6 @@ Full tech stack [here](/techstack.md)
 </td>
 
 <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/21209/default_fd6f4bea3e63552cb3b90f56c124b0f109addbee.png' alt='Savio.io'>
-  <br>
-  <sub><a href="https://www.savio.io/">Savio.io</a></sub>
-  <br>
-  <sub>v0.0.9</sub>
-</td>
-
-<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21471/default_e6a21c3094795c651f23af890e15de225b38ebb2.png' alt='Stagy'>
   <br>
   <sub><a href="https://stagy.dev/">Stagy</a></sub>
@@ -722,9 +716,7 @@ Full tech stack [here](/techstack.md)
   <sub>v1.6.2</sub>
 </td>
 
-</tr>
-<tr>
-  <td align='center'>
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21407/default_50834d775ade6b5f1b26a16b626ef3058b6ccf58.png' alt='WSL'>
   <br>
   <sub><a href="https://docs.microsoft.com/en-us/windows/wsl/about">WSL</a></sub>
@@ -732,7 +724,9 @@ Full tech stack [here](/techstack.md)
   <sub>v1.11.2</sub>
 </td>
 
-<td align='center'>
+</tr>
+<tr>
+  <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21125/default_a37b436cb360d7db5c0521e74ebeb8e50f8ffc58.png' alt='ZyWall'>
   <br>
   <sub><a href="https://www.zyxel.com/us/en">ZyWall</a></sub>
@@ -788,9 +782,7 @@ Full tech stack [here](/techstack.md)
   <sub>v0.3.0</sub>
 </td>
 
-</tr>
-<tr>
-  <td align='center'>
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21240/default_f752ec7f084669cc7a76c7c2a6ec3c8580de2c8a.png' alt='koalas'>
   <br>
   <sub><a href="https://koalas.readthedocs.io/">koalas</a></sub>
@@ -798,7 +790,9 @@ Full tech stack [here](/techstack.md)
   <sub>v0.9.1</sub>
 </td>
 
-<td align='center'>
+</tr>
+<tr>
+  <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/22004/default_50abed759307f52ce2c594a4b0d1deb1999a4b99.png' alt='meml'>
   <br>
   <sub><a href="https://github.com/fivnex/meml">meml</a></sub>
@@ -880,4 +874,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
